@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.su_shadow{
+  border-radius: 15px;
+  background: linear-gradient(145deg, #e13a00, #ff4400);
+  box-shadow:  7px 7px 10px #272739,
+               -7px -7px 10px #35354d;
+}
